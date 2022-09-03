@@ -1,4 +1,4 @@
-# PixelWar
+# Pixel War
 Multiplayer NodeJS Pixel War using WebSockets
 
 ## Starting project
