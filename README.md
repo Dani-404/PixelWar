@@ -8,3 +8,9 @@ npm start
 ```
 
 Navigate to http://localhost:9000
+
+## What is done
+* Socket connection
+* Login system (basic)
+* Place pixels
+* Scene manager on client side
