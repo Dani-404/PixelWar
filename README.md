@@ -9,6 +9,11 @@ npm start
 
 Navigate to http://localhost:9000
 
+## Configuration file
+```
+src/shared/Config/Config.ts
+```
+
 ## What is done
 * Socket connection
 * Login system (basic)
